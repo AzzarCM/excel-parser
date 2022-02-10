@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "excel-parser-ab90b",
+  "private_key_id": "bc7a99770507502acb1f7682c5305328ebc8625b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHIMCyzpKG4tB1\nYaMDGQCr3KPpEXSJxB1fOhAUqPfB5jNnXHB74JF3VmZPJlam3IADt3TN5lUVAsFj\nfbyVgyG5jjlbRM7XlqRp36xZE4ZKSepyi5pxQd5jIORP82GblAdYkbiem4WHNF0S\nPANNrzOMmsKrbOIWPuvAor6C9iP2S7y5RusXwg7UFT7i169lfGK9Ew2js2AKIuOG\nZUDjGqHNW1yeMjCDRKl1mriDvh7K2CwVh7NXhZ5dqGWiVuV9d2Q08SnmE2ebljM5\nbT+WpdKBI5Joxe7NPhbFO9hGFibLc4o0f3AVQsKZ8+IK3RWW0ycUsN2ixJvaRxSz\nU8irdUa5AgMBAAECggEABd/v/3Z7uTII32WthwJeVDOyvEYRD51zFmOipNFlWdme\nS57dDLKP6Brq8svZQ5v+xN1NO2Pfv7pwlSxY+3o+bPiGtawehBrEKAF61rfuPtPW\ncGGxAUVlt7v5MGioSQxBeTn3XeqNsnL3ifmuSUTxeuT3+FHCi9B4aRsEDt4PKo19\nI/BPgqGfJ2gS3S+FThzUKMF5O3I29395WgbOOlY/7304//7ANRoakNvNRZHMZpgI\n3ktCNLqj+EDCe30jz/7/8e+K6FdkYRoA8PwMUfO+aCSuegRMaGUS7vKvif7qxOAl\n/9mIBTVYzR7VNT83/UXgm4nF9LyKZTPcDwVgTk3fOQKBgQDpg/CCv/EX3W+jcJYa\nObFFXB/yxyi+Hgg0d1SYVpxyZEB3lQDEFH9ecXE+pystCsP5bSeEIZeoY3OtiVFA\nLnJMyFot5Sq7xNFLoWl2wSbGCT4ARPq4iGXgvDryUptBgivsZf87KexJjiKDrNCJ\nWNGXGWDSu01tM7yXx9gBdCezrQKBgQDaTS0rxtF039fzU8CwsW+Wttx3OQgYZO3i\nshkIQcE1/8IN2mv8G9h4GrAcqtj9N6WUqH3Gvy9XX5iE9R/0M9YHvjes6JLHche3\nd5PdOVG4NY0tKCBsQ3Tumeby9/zQQwBmh2WLeoxs74g9MKULSIy7r4cwX2ws5anE\nO/4muHAgvQKBgATy++z5fnWgBtay8yt5H421xyORHwbwggICqXNVGpm+EDO4n7yI\nJq7svpayWlLpEIA/1P+S6rDx8qix6Vvv4BJKiMbCPaafJERzFlYi/9xgo8TDsYCp\nu2cI9kLeh1XbGW04ODGb0Ns6PPcHeZ//lumZ6xhsSdbPquaYoLZfLNw9AoGACxNR\nUGBE7jYRIcJFC3HlJHNgmhflpj8wpoi8pmOXpuKz+Ln1MpRDFkzcVIgCfE5fczxd\nLUEz6K3r8grxtRUQLdJjxr0B/WZ3d5J0iQvIbp0g7YKUqol9nEFoqzkTtYlAsvL5\nnur3xuscMWaPaRQkN71/EWA1/80jINaeXV6MKc0CgYAlz6XIu/yThn7w50S7eNFp\nxf9htrjInwmunQsq0cjGFtn1+5OgqVuT3JtiGaFdgjuyMyxy041arEdikDhSJTqY\nkgGZN+yoLwnQCEkwHUx9mShAUwAw3m7KlGD+Znsqc492/B1gDBag8dZBM7UW8U53\nBU1ynNP28rqPTpYWTCWDtg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-i9cid@excel-parser-ab90b.iam.gserviceaccount.com",
+  "client_id": "105141081559250839758",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-i9cid%40excel-parser-ab90b.iam.gserviceaccount.com"
+}

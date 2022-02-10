@@ -1,0 +1,20 @@
+{
+  "name": "excel-parser",
+  "version": "1.0.0",
+  "description": "simple parser excel to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristian-mundo-telus",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-admin": "^10.0.2",
+    "xlsx": "^0.18.0"
+  },
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    }
+  }
+}
